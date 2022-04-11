@@ -44,7 +44,7 @@ class ATM:
             print(info.account)
 
         yes_or_no = input(
-            "If you have another thing to do, pleas input Y.\n If you don't have nothing to do, please input any button.\n"
+            "If you have another thing to do, pleas input Y.\nIf you don't have nothing to do, please input any button.\n"
         )
         if yes_or_no == "Y":
             self.select_account(info)
