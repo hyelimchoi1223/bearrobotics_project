@@ -5,11 +5,11 @@ Implement a simple ATM controller
 Data class is in [data.py](https://github.com/hyelimchoi1223/bearrobotics_project/blob/main/data.py)
 There is two data class.
 1. Account Data class
-  - Function
-    * check balance
-    * deposit
-    * withdraw
-3. User Data class
+      - Function
+        * check balance
+        * deposit
+        * withdraw
+2. User Data class
 
 ## ATM class
 [simple_ATM.py](https://github.com/hyelimchoi1223/bearrobotics_project/blob/main/simple_ATM.py) is actual functional class.
